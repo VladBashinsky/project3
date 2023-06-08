@@ -198,7 +198,7 @@ rgba(255,255,255,1) 49%, rgba(0,0,0,1) 100%);
 /* ----------Main-------- */
 .section {
   position: relative;
-  background: url(/img/BG.jpg);
+  background: url(img/BG.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 10rem;
